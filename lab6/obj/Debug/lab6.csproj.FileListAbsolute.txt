@@ -1,0 +1,26 @@
+c:\users\alexey\documents\visual studio 2015\Projects\lab6\lab6\bin\Debug\lab6.exe.config
+c:\users\alexey\documents\visual studio 2015\Projects\lab6\lab6\bin\Debug\lab6.exe
+c:\users\alexey\documents\visual studio 2015\Projects\lab6\lab6\bin\Debug\lab6.pdb
+c:\users\alexey\documents\visual studio 2015\Projects\lab6\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+c:\users\alexey\documents\visual studio 2015\Projects\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+c:\users\alexey\documents\visual studio 2015\Projects\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
+c:\users\alexey\documents\visual studio 2015\Projects\lab6\lab6\obj\Debug\lab6.exe
+c:\users\alexey\documents\visual studio 2015\Projects\lab6\lab6\obj\Debug\lab6.pdb
+E:\Bitbucket\Programming(3 sem)\lab6\lab6\bin\Debug\lab6.exe.config
+E:\Bitbucket\Programming(3 sem)\lab6\lab6\bin\Debug\lab6.exe
+E:\Bitbucket\Programming(3 sem)\lab6\lab6\bin\Debug\lab6.pdb
+E:\Bitbucket\Programming(3 sem)\lab6\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+E:\Bitbucket\Programming(3 sem)\lab6\lab6\obj\Debug\lab6.Form1.resources
+E:\Bitbucket\Programming(3 sem)\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+E:\Bitbucket\Programming(3 sem)\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
+E:\Bitbucket\Programming(3 sem)\lab6\lab6\obj\Debug\lab6.exe
+E:\Bitbucket\Programming(3 sem)\lab6\lab6\obj\Debug\lab6.pdb
+\\Mac\Home\Downloads\lab6\lab6\bin\Debug\lab6.exe.config
+\\Mac\Home\Downloads\lab6\lab6\obj\Debug\lab6.exe
+\\Mac\Home\Downloads\lab6\lab6\obj\Debug\lab6.pdb
+\\Mac\Home\Downloads\lab6\lab6\bin\Debug\lab6.exe
+\\Mac\Home\Downloads\lab6\lab6\bin\Debug\lab6.pdb
+\\Mac\Home\Downloads\lab6\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\lab6\lab6\obj\Debug\lab6.Form1.resources
+\\Mac\Home\Downloads\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+\\Mac\Home\Downloads\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
